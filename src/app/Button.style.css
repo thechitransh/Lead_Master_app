@@ -1,0 +1,10 @@
+.forword{
+    position: absolute;
+    top:35rem;
+    right: 22rem;
+}
+.backword{
+    position: absolute;
+    top:35rem;
+    left: 22rem;
+}

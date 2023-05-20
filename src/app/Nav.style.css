@@ -1,0 +1,33 @@
+.nav{
+    background-color:rgba(215, 212, 212, 0.811);
+    display: flex;
+    padding-bottom: 4rem;
+    padding-top: 1rem;
+    border: 1px solid black;
+  }
+  .logo{
+    position: absolute;
+    left: 7rem;
+  }
+   h1{
+    position: absolute;
+    left: 10.5rem;
+    top: 1.5rem;
+  }
+  .btn{
+    position: absolute;
+    right: 7rem;
+    top: 1.5rem;
+    
+  }
+  .btn button{
+    border-radius: 1rem;
+    padding: 7px 25px;
+    background-color: #04aa6d;
+    border-color: #04aa6d;
+    color: white;
+  }
+  
+  .btn button:hover{
+    background-color: #43a280;
+  }

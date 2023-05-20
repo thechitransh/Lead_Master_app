@@ -1,0 +1,46 @@
+/* .btn button{
+    display: none;
+} */
+.btn-1{
+    position: absolute;
+    right: 7rem;
+    top: 1.5rem;
+}
+.btn-1 button{
+    border-radius: 1rem;
+    padding: 7px 25px;
+    background-color: #04aa6d;
+    border-color: #04aa6d;
+    color: white;
+  }
+  .btn-1 button:hover{
+    background-color: #43a280;
+  }
+  .text{
+    position:absolute;
+    top: 12rem;
+    left:33rem;
+  }
+  .box{
+    margin-top: 10rem;
+    padding-top: 5rem;
+    padding-bottom: 10rem;
+    width: 70rem;
+    position: absolute;
+    left:13rem
+ }
+ .input{
+  display: inline;
+  right: 40rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 16px;
+ }
+ .email{
+  width: 25ch;
+  position: absolute;
+  left: 9.5rem;
+  margin-top: 2rem;
+ }
